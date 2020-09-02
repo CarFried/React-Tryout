@@ -8,7 +8,8 @@ function Circle() {
 
   const changeColor = (e)=> {
     e.preventDefault()
-    setColor('#2be29c') 
+    const checkColor = color === '#8a2be2'? '#2be29c':'#8a2be2'
+    setColor(checkColor) 
   }
 
     return (
