@@ -1,10 +1,11 @@
 import React from 'react'
+import './circle.css'
 
 
 function Circle() {
     return (
-      <div className="Circle">
-    
+      <div className="circle">
+     
       </div>
     );
   }
