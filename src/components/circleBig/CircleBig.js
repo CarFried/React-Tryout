@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import './circle.css'
+import './circleBig.css'
 
 
 function Circle() {
